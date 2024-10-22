@@ -1,0 +1,10 @@
+Definición del caso:
+Seleccione un negocio que haya utilizado en algún curso a lo largo de la carrera y descríbalo brevemente.
+
+Respuesta :
+"Salud y Sabor" es un proyecto empresarial dedicado a la fabricación y venta de galletas medicinales. Estas galletas están elaboradas con ingredientes naturales y beneficios terapéuticos, con el objetivo de promover la salud y el bienestar de quienes las consumen.
+
+Seleccione un proceso del negocio crítico, defina una funcionalidad Backend y justifique la implementación de resiliencia con Spring Cloud
+
+Respuesta :
+La gestión de pedidos es crucial para "Salud y Sabor", un negocio de galletas medicinales. Se implementará una API REST en el backend para que los clientes puedan hacer pedidos y verificar el stock antes de confirmar la transacción. Spring Cloud facilitará la resiliencia del servicio con Circuit Breaker, evitando interrupciones por errores temporales y mejorando la experiencia del cliente.
